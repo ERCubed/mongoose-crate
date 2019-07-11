@@ -12,10 +12,10 @@
     "files"
   ],
   "version": "1.2.0",
-  "homepage": "https://github.com/achingbrain/mongoose-crate",
+  "homepage": "https://github.com/ercubed/mongoose-crate",
   "repository": {
     "type": "git",
-    "url": "git://github.com/achingbrain/mongoose-crate.git"
+    "url": "git://github.com/ercubed/mongoose-crate.git"
   },
   "main": "index.js",
   "scripts": {
@@ -26,8 +26,8 @@
     "coveralls": "cat ./coverage/lcov.info | coveralls"
   },
   "dependencies": {
-    "async": "^2.1.4",
-    "check-types": "^7.0.0",
+    "async": "^3.1.0",
+    "check-types": "^8.0.3",
     "mmmagic": "^0.5.3"
   },
   "devDependencies": {
